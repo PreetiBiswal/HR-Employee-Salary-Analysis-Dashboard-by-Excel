@@ -1,2 +1,2 @@
-# HR-Employee-Database-Salary-Analysis-by-Excel
+# HR Employee Salary Analysis Dashboard by Excel
 Maintain an employee database and analyze salary distribution.
